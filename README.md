@@ -1,7 +1,7 @@
-# Dense Layer Classification using Olivetti Faces Dataset - CAP 6619
+# Dense Layer Classification using Olivetti Faces Dataset
 
 ## Overview
-This repository contains the code and data for Homework 2, Question 6 of the CAP 6619 - Deep Learning course at Florida Atlantic University. The task involves building and evaluating dense layer neural networks to classify images from the Olivetti Faces Dataset.
+The task involves building and evaluating dense layer neural networks to classify images from the Olivetti Faces Dataset.
 
 ## Dataset
 The Olivetti Faces Dataset consists of 400 grayscale images of faces. Each image is 64x64 pixels and there are 40 distinct individuals with 10 images per individual.
